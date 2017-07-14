@@ -38,7 +38,7 @@ public class Player implements ActionListener, ChangeListener {
   
   private static final int WIDTH = 150;
   private static final int HEIGHT = 150;
-  private static final float SCALE = 5f;
+  private static final float SCALE = 4f;
   private static final int PADDING = 10;
   private static final double DEFAULT_DENSITY = 0.15;
   
